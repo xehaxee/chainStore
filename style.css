@@ -1,0 +1,55 @@
+/* #firstP{
+    color: antiquewhite;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+#link{
+    color: black;
+    font-size: xx-small;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+} */
+.firstP{
+    color: antiquewhite;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+#paragraph{
+    color: blueviolet;
+}
+#mainDiv{
+    display: flex;
+    margin: 5%;
+
+}
+#div1{
+    width: 30%;
+    background-color: aqua;
+    border: double;
+    border-radius: 15px;
+    border-width: 5px;
+    border-color: #000000;
+    padding: 8%;
+    margin: 5%;
+}
+#div2{
+    width: 40%;
+    background-color: aliceblue;
+}
+#div3{
+    width: 30%;
+    background-color: azure;
+}
+#headerText{
+    text-align: center;
+    color: blueviolet;
+    font-weight: bold;
+
+}
